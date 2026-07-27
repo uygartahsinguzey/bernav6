@@ -1,0 +1,19 @@
+{
+  "name": "Berna V16.3",
+  "short_name": "Berna",
+  "description": "Büyük cozy pixel arayüz, Miki ve sınav geri sayımı ile üretkenlik deneyimi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#efe3cf",
+  "theme_color": "#a65f58",
+  "icons": [
+    {
+      "src": "./assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
